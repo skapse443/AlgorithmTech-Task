@@ -8,7 +8,7 @@ function Login({setPage}){
         <div className="login-card">
             
             <h1>Welcome Back!</h1>
-            <p>Login to your Tasty Bites account</p>
+            <p>Register to your Tasty Bites account</p>
             <form>
                 <div className="input-group">
                     <label>Email</label>
